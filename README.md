@@ -1,16 +1,17 @@
-## Hi there 👋
+### Boas vindas ao nosso perfil 💙💙
 
-<!--
-**carolisaa/carolisaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Somos a Isabelly e Carolina 
 
-Here are some ideas to get you started:
+- Estamos estudando na Alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estamos nos desenvolvendo na linguagem JavaScript
+
+- Utilizamos esse espaço para nossa organização e compartilhamento dos projetos desenvolvidos
+
+### Você pode entrar em contato com a gente 📫
+
+@carolinamqq
+
+@isafozzato
+
+![](https://media.tenor.com/gCw23UXrGbIAAAAi/snoopy.gif)
